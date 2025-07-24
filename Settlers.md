@@ -1,0 +1,1 @@
+Settlers are mostly NPCs. They can appear in all races, in little towns all over mars, or packed in on transport liners.

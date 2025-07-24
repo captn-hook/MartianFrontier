@@ -1,0 +1,3 @@
+A transport liner carries around 4,000 people, and up to 50,000 tons of cargo. Conditions on these ships vary depending on class, with [[Androids]] given little more than broom closets, [[Settlers]] expecting enough room for the family, and incoming [[Governors]] demanding private suites. 
+
+These great vessels of industry move on [[Captured Stars]], under the command of a [[Lunar Captain]]. While [[Floatings]] have become more rare due to advances in propulsion technology, the risk is still ever present in the mind of every soul on board.

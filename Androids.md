@@ -1,0 +1,1 @@
+Can pretend to be Human, unless inspected by a doctor or physiologist.

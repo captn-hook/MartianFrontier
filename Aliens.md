@@ -1,0 +1,1 @@
+There are said to be more ancient alien artifacts on [[Mars]] than either the Moon or Earth. These ancient artifacts are worth a fortune, and have been said to impart [[Magic]] powers on people.

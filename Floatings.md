@@ -1,0 +1,1 @@
+Due to the volatility of [[Captured Stars]], it is not uncommon for a power surge to occur. While most power surges are of no danger, an exceptionally large or badly timed surge can push a ship off course, dooming those on board to a slow death.

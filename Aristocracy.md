@@ -1,0 +1,1 @@
+Big ol rich people who own all the companies and ships.

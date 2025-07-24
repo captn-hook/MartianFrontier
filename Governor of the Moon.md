@@ -1,0 +1,1 @@
+The Governor of the [[Moon]] rules with an iron fist. He has is own private Navy of [[Multi-Star Ships]], aboard on of which he is said to live.

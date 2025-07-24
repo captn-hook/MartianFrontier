@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "7cb3819b2b945569",
+    "type": "split",
+    "children": [
+      {
+        "id": "49069da6d05bf428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4762b2b90531ac50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/0. Backstory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Backstory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fbfc39e7f3410e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94d2a22e95c38a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98090e6eacaa17a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c97c2ef6e7aa074c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f5da7d06c8990f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfc8a111fcec9a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "550751faecb1ce38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4782fb601031f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Addie Android.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Addie Android"
+            }
+          },
+          {
+            "id": "fb54d352170c5c58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Addie Android.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Addie Android"
+            }
+          },
+          {
+            "id": "747a84fa50d363e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73cbc72b7e7adcd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Addie Android.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Addie Android"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98090e6eacaa17a1",
+  "lastOpenFiles": [
+    "README.md",
+    "Characters/Addie Android.md",
+    "Characters/Untitled/Untitled.md",
+    "Characters/Untitled",
+    "Escapee Campaign/1. Intro.md",
+    "Characters",
+    "Magic.md",
+    "Moon.md",
+    "Aristocracy.md",
+    "The Old World.md",
+    "Sky Harbor.md",
+    "Settlers.md",
+    "Aliens.md",
+    "Adventurers.md",
+    "Androids.md",
+    "Governor of the Moon.md",
+    "Governors.md",
+    "Multi-Star Ships.md",
+    "Captured Stars.md",
+    "Humans.md",
+    "Earth.md",
+    "Artificers.md",
+    "Escapee Campaign/0. Backstory.md",
+    "Escapee Campaign",
+    "Floatings.md",
+    "Naval Schools.md",
+    "Lunar Captain.md",
+    "Mars.md",
+    "Transport Liner.md"
+  ]
+}
