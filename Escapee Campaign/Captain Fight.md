@@ -1,0 +1,1 @@
+Captain does not need to die- he can remain with the party, trying to reach the settlement.
