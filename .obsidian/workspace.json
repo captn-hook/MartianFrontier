@@ -4,67 +4,203 @@
     "type": "split",
     "children": [
       {
-        "id": "49069da6d05bf428",
+        "id": "b76dd340ac8ad377",
         "type": "tabs",
         "children": [
           {
-            "id": "4762b2b90531ac50",
+            "id": "c1dc960097945742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapee Campaign/1. Intro.md",
+                "file": "Escapee Campaign/4.5 Android Raid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Intro"
+              "title": "4.5 Android Raid"
             }
           },
           {
-            "id": "7ea9b16f325f2c9b",
+            "id": "e103b00091b3ee6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapee Campaign/Captain Fight.md",
+                "file": "Escapee Campaign/4.5 Native Raid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Captain Fight"
+              "title": "4.5 Native Raid"
             }
           },
           {
-            "id": "8bc0949f05d1c7df",
+            "id": "56acfbd549c3ff2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapee Campaign/1. Intro.md",
+                "file": "Escapee Campaign/4.5 Android Raid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Intro"
+              "title": "4.5 Android Raid"
             }
           },
           {
-            "id": "58a88aa4210c2f66",
+            "id": "0a0cd7bbbfbd918a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escapee Campaign/2. Camps.md",
+                "file": "Escapee Campaign/4.5 Native Raid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Camps"
+              "title": "4.5 Native Raid"
+            }
+          },
+          {
+            "id": "ec17dbc52dbc9539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/4.5 Native Raid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.5 Native Raid"
+            }
+          },
+          {
+            "id": "87be839d9d35d75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/4.5 Native Raid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.5 Native Raid"
+            }
+          },
+          {
+            "id": "18640ef1ccf0322a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/5.5 Artifact Fortress Assault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Artifact Fortress Assault"
+            }
+          },
+          {
+            "id": "8120e63933ebdb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/5.5 Artifact Fortress Assault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Artifact Fortress Assault"
+            }
+          },
+          {
+            "id": "77cb34fd287b60aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/5.5 Android Artifact Heist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Android Artifact Heist"
+            }
+          },
+          {
+            "id": "d57e4c6583b9c79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/5.5 Android Artifact Heist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Android Artifact Heist"
+            }
+          },
+          {
+            "id": "b02d986d22ba4023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/5.5 Artifact Fortress Assault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Artifact Fortress Assault"
+            }
+          },
+          {
+            "id": "49792a81bd399d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/4.5 Android Raid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.5 Android Raid"
+            }
+          },
+          {
+            "id": "fccce28d62c3ecb8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6402a68e1e0da51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/4.5 Native Raid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.5 Native Raid"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -211,12 +347,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58a88aa4210c2f66",
+  "active": "fccce28d62c3ecb8",
   "lastOpenFiles": [
-    "Escapee Campaign/1. Intro.md",
-    "Escapee Campaign/Captain Fight.md",
+    "Escapee Campaign/6 Artifact Assembly.md",
+    "Escapee Campaign/4.5 Android Raid.md",
+    "Escapee Campaign/5.5 Android Artifact Heist.md",
+    "Escapee Campaign/5.5 Artifact Fortress Assault.md",
+    "Escapee Campaign/4.5 Native Raid.md",
+    "Escapee Campaign/3.5 Settler Town 1.md",
+    "Escapee Campaign/3.5 Native Camp 1.md",
     "Escapee Campaign/2. Camps.md",
+    "Escapee Campaign/1. Intro.md",
     "Escapee Campaign/0. Backstory.md",
+    "Escapee Campaign/Captain Fight.md",
+    "Native Magician.md",
+    "Mr Boss.md",
+    "3.5 Settler Camp 1.md",
+    "Weapons Store.md",
+    "Moisture Farmer.md",
+    "Escapee Campaign/Worm Pen.md",
+    "Escapee Campaign/Native Fight.md",
+    "Escapee Campaign/Unused Android Bar.md",
     "README.md",
     "Characters/Addie Android.md",
     "Characters/Untitled/Untitled.md",
@@ -226,21 +377,6 @@
     "Moon.md",
     "Aristocracy.md",
     "The Old World.md",
-    "Sky Harbor.md",
-    "Settlers.md",
-    "Aliens.md",
-    "Adventurers.md",
-    "Androids.md",
-    "Governor of the Moon.md",
-    "Governors.md",
-    "Multi-Star Ships.md",
-    "Captured Stars.md",
-    "Humans.md",
-    "Earth.md",
-    "Artificers.md",
-    "Escapee Campaign",
-    "Floatings.md",
-    "Naval Schools.md",
-    "Lunar Captain.md"
+    "Escapee Campaign"
   ]
 }
