@@ -1,0 +1,1 @@
+Verdant Crater is the foremost terraforming research base on mars. The titular crater is the largest crater of a cluster of domed craters, each housing a differing biosphere. It is a heavily wooded rainforest, miles across. Columns disguised as huge trees support the dome.
