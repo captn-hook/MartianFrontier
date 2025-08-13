@@ -4,39 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "840a98e4b8af3426",
+        "id": "f5137b40f1ec76aa",
         "type": "tabs",
         "children": [
           {
-            "id": "afa88b4a1934ec5d",
+            "id": "a261f0c552c04daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verdant Crater.md",
+                "file": "Escapee Campaign/2. Camps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verdant Crater"
+              "title": "2. Camps"
             }
           },
           {
-            "id": "edd924a7f9812647",
+            "id": "79904ddf548664b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raiding Party Combat/Guard Captain.md",
+                "file": "Escapee Campaign/2. Camps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guard Captain"
+              "title": "2. Camps"
             }
           },
           {
-            "id": "4c659a2d11647fa6",
+            "id": "2f07012c79f98b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/Native Fight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Native Fight"
+            }
+          },
+          {
+            "id": "0c05ea1d40ce21e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/2. Camps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Camps"
+            }
+          },
+          {
+            "id": "f0cf10388387f0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/3.5 Native Camp 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5 Native Camp 1"
+            }
+          },
+          {
+            "id": "b97a7d247fec3c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/3.5 Settler Town 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5 Settler Town 1"
+            }
+          },
+          {
+            "id": "7598a045deddcfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/Weapons Store.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons Store"
+            }
+          },
+          {
+            "id": "23be37e2bbf75637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raiding Party Combat/Soldiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldiers"
+            }
+          },
+          {
+            "id": "9441c74d4d472390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escapee Campaign/Native Fight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Native Fight"
+            }
+          },
+          {
+            "id": "265cd1f08b801bad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +147,8 @@
               "title": "Soldiers"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,38 +295,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afa88b4a1934ec5d",
+  "active": "7598a045deddcfc3",
   "lastOpenFiles": [
-    "Raiding Party Combat/Loot.md",
-    "Verdant Crater.md",
-    "Raiding Party Combat/Soldiers.md",
-    "Raiding Party Combat/Guard Captain.md",
-    "Raiding Party Combat/Story.md",
-    "Soldier Stats.png",
+    "Escapee Campaign/3.5 Settler Town 1.md",
+    "Escapee Campaign/3.5 Native Camp 1.md",
     "Escapee Campaign/2. Camps.md",
+    "Escapee Campaign/Native Fight.md",
+    "Raiding Party Combat/Soldiers.md",
+    "Escapee Campaign/1. Intro.md",
+    "Savage Worlds/main rules.pdf",
+    "Mr. Barns, Obel, Selchik, and Sons.md",
+    "Magic.md",
+    "Escapee Campaign/Mr Boss.md",
+    "Escapee Campaign/Captain Fight.md",
+    "Escapee Campaign/0. Backstory.md",
+    "Escapee Campaign/Moisture Farmer.md",
+    "Savage Worlds/clips/Pasted image 20250811203601.png",
+    "Savage Worlds/Captain Jacobs.pdf",
+    "Savage Worlds/Cover.md",
+    "Savage Worlds/dramatic tasks.pdf",
+    "Savage Worlds/chases.pdf",
+    "Savage Worlds/clips/Pasted image 20250811194234.png",
+    "Naval Schools.md",
+    "Savage Worlds/clips",
+    "Raiding Party Combat/Guard Captain.md",
+    "Savage Worlds/gear.pdf",
+    "Savage Worlds/hindrances traits edges summaries.pdf",
+    "Savage Worlds/clips/Pasted image 20250811195027.png",
+    "Savage Worlds/clips/Pasted image 20250811194948.png",
+    "Savage Worlds/Size Table.md",
+    "Savage Worlds/savage worlds pdf.pdf",
+    "Savage Worlds/clips/Pasted image 20250811194255.png",
+    "Savage Worlds/clips/Pasted image 20250811194252.png",
+    "Untitled.md",
+    "Savage Worlds/clips/Pasted image 20250811194234 1.png",
+    "Savage Worlds/hindrances traits edges.pdf",
+    "Savage Worlds/encounters.pdf",
+    "Verdant Crater.md",
+    "Raiding Party Combat/Story.md",
+    "Raiding Party Combat/Loot.md",
+    "Soldier Stats.png",
     "Escapee Campaign/Worm Pen.md",
     "Escapee Campaign/Unused Android Bar.md",
-    "Escapee Campaign/Native Fight.md",
     "Escapee Campaign/6 Artifact Assembly.md",
     "Escapee Campaign/5.5 Artifact Fortress Assault.md",
     "Escapee Campaign/5.5 Android Artifact Heist.md",
-    "Escapee Campaign/4.5 Native Raid.md",
-    "Escapee Campaign/4.5 Android Raid.md",
-    "Escapee Campaign/3.5 Settler Town 1.md",
-    "Escapee Campaign/3.5 Native Camp 1.md",
-    "Raiding Party Combat",
-    "Escapee Campaign/1. Intro.md",
-    "Escapee Campaign/Captain Fight.md",
-    "Escapee Campaign/0. Backstory.md",
-    "README.md",
-    "Characters/Addie Android.md",
-    "Characters/Untitled/Untitled.md",
-    "Characters/Untitled",
-    "Characters",
-    "Magic.md",
-    "Moon.md",
-    "Aristocracy.md",
-    "The Old World.md",
-    "Escapee Campaign"
+    "Escapee Campaign/4.5 Native Raid.md"
   ]
 }

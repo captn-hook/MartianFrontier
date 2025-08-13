@@ -1,0 +1,1 @@
+Occult rumors fly, connecting everyone from industry magnates like [[Mr. Barns, Obel, Selchik, and Sons]] 
